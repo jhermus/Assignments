@@ -1,2 +1,2 @@
 # Assignments
-School assignments
+https://github.com/jhermus/Assignments/edit/master/README.md
