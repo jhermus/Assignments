@@ -3,4 +3,4 @@
 
 [CV markdown](https://github.com/jhermus/Assignments/blob/master/CV.md)
 
-[CV HTML](
+[CV HTML](https://github.com/jhermus/Assignments/blob/master/cv.html)
