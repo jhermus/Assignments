@@ -1,5 +1,7 @@
-Curriculum vitae for Joep Hermus
-=================================
+Curriculum vitae 
+================
+Joep Hermus
+===========
 
 Personal information
 ---------------------
